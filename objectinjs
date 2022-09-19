@@ -1,0 +1,6 @@
+<script>
+var a {
+fname ="shriram", 
+lname="lname;,
+}
+console.log(a);
